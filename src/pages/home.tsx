@@ -103,7 +103,7 @@ const Home = () => {
           style={{ maxWidth: "900px", backdropFilter: "blur(10px)" }}
         >
           <h1 className="display-4 text-danger fw-bold mb-5">
-            Will you be my Valentine Zeel (Titli)?? 🌹
+            Will you be my Valentine Zeelu (Titli)?? 🌹
           </h1>
 
           <div

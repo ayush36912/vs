@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f88de2a2.css",
-    "main.js": "/static/js/main.c6f15bf2.js",
+    "main.css": "/static/css/main.902a9d05.css",
+    "main.js": "/static/js/main.eb0860df.js",
     "static/js/787.7b87d1e2.chunk.js": "/static/js/787.7b87d1e2.chunk.js",
     "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.c3152b4bca72e5fa0f1d.woff",
     "static/media/Montserrat-SemiBold.woff": "/static/media/Montserrat-SemiBold.6328ccad884f048e05fd.woff",
@@ -11,16 +11,16 @@
     "static/media/Montserrat-SemiBold.woff2": "/static/media/Montserrat-SemiBold.76841f23a1a86cc45dda.woff2",
     "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.666e9a78e4e3819f55b3.woff2",
     "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.b0463f53f41af9e523ee.woff2",
-    "static/media/shape-circle.svg": "/static/media/shape-circle.606ab59eca0bb94401f5.svg",
-    "static/media/line-green.svg": "/static/media/line-green.31e9928859c45112d6e3.svg",
+    "static/media/shape-circle.svg": "/static/media/shape-circle.49ba49b6aff61678f3c8.svg",
+    "static/media/line-green.svg": "/static/media/line-green.ea05129958335128de6d.svg",
     "index.html": "/index.html",
-    "static/media/shape-circle-green.svg": "/static/media/shape-circle-green.d02e909a56c4b7d8ac6e.svg",
-    "main.f88de2a2.css.map": "/static/css/main.f88de2a2.css.map",
-    "main.c6f15bf2.js.map": "/static/js/main.c6f15bf2.js.map",
+    "static/media/shape-circle-green.svg": "/static/media/shape-circle-green.ac0e99eebe4f28079426.svg",
+    "main.902a9d05.css.map": "/static/css/main.902a9d05.css.map",
+    "main.eb0860df.js.map": "/static/js/main.eb0860df.js.map",
     "787.7b87d1e2.chunk.js.map": "/static/js/787.7b87d1e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f88de2a2.css",
-    "static/js/main.c6f15bf2.js"
+    "static/css/main.902a9d05.css",
+    "static/js/main.eb0860df.js"
   ]
 }
