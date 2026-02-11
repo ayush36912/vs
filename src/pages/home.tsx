@@ -47,15 +47,12 @@ const Home = () => {
               muted
               className="w-100 h-100 object-fit-cover"
               style={{
-                maxWidth: "100%",
-                maxHeight: "100%",
-                objectFit: "cover",
+                maxWidth: "80%",
+                maxHeight: "80%",
+                // objectFit: "cover",
               }}
             >
-              <source
-                src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
-                type="video/mp4"
-              />
+              <source src="jetha.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </>
@@ -103,10 +100,10 @@ const Home = () => {
       >
         <div
           className="card shadow-lg p-5 d-inline-block rounded-3 bg-white bg-opacity-75"
-          style={{ maxWidth: "600px", backdropFilter: "blur(5px)" }}
+          style={{ maxWidth: "900px", backdropFilter: "blur(10px)" }}
         >
           <h1 className="display-4 text-danger fw-bold mb-5">
-            Will you be my Valentine?? 🌹
+            Will you be my Valentine Zeel (Titli)?? 🌹
           </h1>
 
           <div
